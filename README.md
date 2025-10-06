@@ -7,3 +7,5 @@ Link Figma: https://www.figma.com/design/fjPup7S6t7NLpvzVJE8FJK/app-nasa-atualiz
 Google Drive: https://drive.google.com/drive/folders/1Vihxu--y044bf7SxTbXPld9Eq1rC-WXS?usp=sharing
 
 Link automação: https://drive.google.com/drive/folders/1Vihxu--y044bf7SxTbXPld9Eq1rC-WXS
+
+Link do arquivo do google colab: https://colab.research.google.com/drive/1d9wOrQvaTWICE7Peyq23YLL_X7NhTtoa
